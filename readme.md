@@ -2,7 +2,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/)
 [![Last Commit](https://img.shields.io/github/last-commit/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/commits/main)
-[![License](https.img.shields.io/github/license/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/blob/main/LICENSE)
 
 
 This repository holds a general-purpose `.gitignore` file that I use as a starter for new projects. The goal is to have a robust, catch-all template that handles common files from different operating systems, editors, and build tools.
