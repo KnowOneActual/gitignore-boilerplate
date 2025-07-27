@@ -1,5 +1,10 @@
 # My Gitignore Boilerplate
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/)
+[![Last Commit](https://img.shields.io/github/last-commit/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/commits/main)
+[![License](https.img.shields.io/github/license/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/blob/main/LICENSE)
+
+
 This repository holds a general-purpose `.gitignore` file that I use as a starter for new projects. The goal is to have a robust, catch-all template that handles common files from different operating systems, editors, and build tools.
 
 ## Why This Exists
@@ -46,3 +51,8 @@ You can also just view the `.gitignore` file on GitHub, click the "Raw" button, 
 ## Customization
 
 This file is a great starting point, but feel free to edit it to fit the specific needs of your project. You can add project-specific ignores at the bottom or remove sections you don't need.
+
+
+## **This project is licensed under the Unlicense License.**
+
+For more information, please refer to [Unlicense](https://unlicense.org)
