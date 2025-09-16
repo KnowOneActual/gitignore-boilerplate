@@ -96,4 +96,5 @@ _scratch.*
 *.scratch.*
 *.scratch
 start-work.sh
+WARP.md
 
