@@ -77,9 +77,63 @@ GitHub.sublime-settings
 .env.*.local
 
 # Python
+# Virtual environments
 venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# Python bytecode
 __pycache__/
+*.py[cod]
 *.pyc
+*.pyo
+*.pyd
+.Python
+
+# Python build and distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Testing
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Machine learning / AI models
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.pth
+*.pt
+*.model
+models/
+checkpoints/
+weights/
 
 # Project-specific ignores
 # ========================
