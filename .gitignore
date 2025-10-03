@@ -151,4 +151,8 @@ _scratch.*
 *.scratch
 start-work.sh
 WARP.md
+tmux/plugins/
+raycast
+fzf
+history.txt
 
