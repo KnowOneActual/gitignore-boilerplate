@@ -7,7 +7,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/)
 [![Last Commit](https://img.shields.io/github/last-commit/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/commits/main)
-[![License](https://img.shields.io/github/license/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/blob/main/LICENSE)
 
 This repository holds a robust, general-purpose `.gitignore` file that I use as a starter for new projects. It is designed to be a "batteries-included" template for **Node.js, Python, and general web development**, while handling common files from various operating systems and editors.
 
