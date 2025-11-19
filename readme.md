@@ -62,4 +62,4 @@ This file is a great starting point, but feel free to edit it to fit the specifi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/KnowOneActual/gitignore-boilerplate/blob/fe4b7b9a2daa014bd4c80d30e4c9adf8ae6ca1c8/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KnowOneActual/gitignore-boilerplate/blob/bf552f7782fe2a3aa3cfc1c6dec810c0caea518f/LICENSE) file for details.
