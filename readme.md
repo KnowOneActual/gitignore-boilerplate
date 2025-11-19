@@ -1,20 +1,24 @@
+<p align="center">
+<img src="assets/img/gitignore-boilerplate_logo.webp" alt="alt text" width="150">
+</p>
+
+
 # My Gitignore Boilerplate
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/)
 [![Last Commit](https://img.shields.io/github/last-commit/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/commits/main)
 [![License](https://img.shields.io/github/license/KnowOneActual/gitignore-boilerplate.svg)](https://github.com/KnowOneActual/gitignore-boilerplate/blob/main/LICENSE)
 
-
-This repository holds a general-purpose `.gitignore` file that I use as a starter for new projects. The goal is to have a robust, catch-all template that handles common files from different operating systems, editors, and build tools.
+This repository holds a robust, general-purpose `.gitignore` file that I use as a starter for new projects. It is designed to be a "batteries-included" template for **Node.js, Python, and general web development**, while handling common files from various operating systems and editors.
 
 ## Why This Exists
 
 Instead of starting from scratch with every new project, this boilerplate provides a solid foundation that ignores:
-* Operating System generated files (like `.DS_Store` or `Thumbs.db`)
-* Common log and temporary files
-* Editor and IDE configuration folders (like `.vscode/` or `.idea/`)
-* Dependency folders (like `node_modules/`)
-* Common build and distribution outputs (like `/build/` or `/dist/`)
+* **Operating System files:** `.DS_Store`, `Thumbs.db`, and other system artifacts.
+* **Logs & Temp files:** Common log formats and temporary directories.
+* **Editor & IDE configs:** VS Code, JetBrains (IntelliJ/PyCharm), Sublime Text, and others.
+* **Node.js:** `node_modules/`, build outputs, and dependency caches.
+* **Python:** `__pycache__`, virtual environments (`venv/`, `.env`), and build artifacts.
 
 ## How to Use
 
@@ -26,19 +30,23 @@ This is the quickest way. Navigate to your project's root directory in the termi
 
 ```bash
 curl -L -o .gitignore https://raw.githubusercontent.com/KnowOneActual/gitignore-boilerplate/main/.gitignore
-```
+````
 
 ### Option 2: Clone and Copy
 
 You can clone this repository to your local machine and copy the file from there.
 
-* **First, clone the repository. This creates a new folder named "gitignore-boilerplate".**
+  * **First, clone the repository. This creates a new folder named "gitignore-boilerplate".**
+
+
 
 ```bash
 git clone https://github.com/KnowOneActual/gitignore-boilerplate.git
 ```
 
-* **Then, copy the file from the new folder to your project's location.**
+  * **Then, copy the file from the new folder to your project's location.**
+
+
 
 ```bash
 cp gitignore-boilerplate/.gitignore /path/to/your/new-project/
@@ -50,9 +58,8 @@ You can also just view the `.gitignore` file on GitHub, click the "Raw" button, 
 
 ## Customization
 
-This file is a great starting point, but feel free to edit it to fit the specific needs of your project. You can add project-specific ignores at the bottom or remove sections you don't need.
+This file is a great starting point, but feel free to edit it to fit the specific needs of your project. You can add project-specific ignores at the bottom or remove sections you don't need (like the Python section if you are only working in Node).
 
+## License
 
-## **This project is licensed under the Unlicense License.**
-
-For more information, please refer to [Unlicense](https://unlicense.org)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KnowOneActual/gitignore-boilerplate/blob/fe4b7b9a2daa014bd4c80d30e4c9adf8ae6ca1c8/LICENSE) file for details.
