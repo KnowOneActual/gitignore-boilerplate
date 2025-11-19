@@ -115,9 +115,6 @@ coverage.xml
 .ipynb_checkpoints/
 *.ipynb
 
-# PyCharm
-.idea/
-
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -140,19 +137,3 @@ weights/
 # Add any files or folders specific to the project you're currently in.
 # For example:
 # /my-secret-folder/
-
-# My Personal shorthands (original file)
-# ==============================================
-_hold
-_docs
-_comps*
-_scratch.*
-*.scratch.*
-*.scratch
-start-work.sh
-WARP.md
-tmux/plugins/
-raycast
-fzf
-history.txt
-GEMINI.md
