@@ -1,5 +1,14 @@
 # General-purpose ignores for different operating systems and editors.
 # ===================================================================
+#
+#
+# REFRESHING THE REPO:
+# If you add a file to this list but it is still being tracked by Git,
+# you need to clear your cache. Run this command in your terminal:
+#
+#     git rm -r --cached .
+#
+# Then add and commit your changes to apply the new ignore rules.
 
 # OS-specific files
 .DS_Store
