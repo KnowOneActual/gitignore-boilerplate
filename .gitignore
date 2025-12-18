@@ -4,7 +4,7 @@
 #
 # REFRESHING THE REPO:
 # If you add a file to this list but it is still being tracked by Git,
-# you need to clear your cache. Run this command in your terminal:
+# You need to clear your cache. Run this command in your terminal:
 #
 #     git rm -r --cached .
 #
